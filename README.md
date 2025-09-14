@@ -1,7 +1,5 @@
 # Python Tasks Repository
 
-This repository contains two Python scripts as part of the assignment:
-
 ## Task 1: Factorial Function
 - Defines a function `factorial(n)` to calculate the factorial of a number using a loop.
 - Calls the function with a sample number (e.g., 5).
