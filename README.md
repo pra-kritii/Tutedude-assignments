@@ -1,5 +1,6 @@
 # Python Tasks Repository
 
+## Assignment 3
 ## Task 1: Factorial Function
 - Defines a function `factorial(n)` to calculate the factorial of a number using a loop.
 - Calls the function with a sample number (e.g., 5).
