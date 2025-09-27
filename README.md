@@ -47,3 +47,24 @@ Creates a list of numbers from 1 to 10.
 Extracts the first five elements from the list.
 Reverses these extracted elements.
 Prints both the extracted list and the reversed list.
+
+
+## Assingnment 6
+# 🧮 Tkinter Calculator
+
+A simple **GUI-based Calculator** built using Python's `tkinter` library. This project demonstrates how to create interactive applications with buttons, entry fields, and basic arithmetic operations.
+
+## ✨ Features
+- 📌 Basic operations: Addition, Subtraction, Multiplication, Division  
+- 🔢 Numeric keypad (0–9)  
+- 🧼 Clear button to reset input  
+- ✅ Equal button to display results  
+- 📐 Simple and clean Tkinter UI  
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.x installed on your system  
+- `tkinter` (comes pre-installed with Python)  
+
+
