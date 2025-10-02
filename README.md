@@ -93,6 +93,7 @@ insert_data.py → Insert sample records<br>
 fetch_data.py → Fetch and display records<br>
 user_input.py → Insert user input
 <br>
+
 ## How to Run<br>
 Install requirements:<br>
 pip install psycopg2<br>
