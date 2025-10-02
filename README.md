@@ -95,10 +95,10 @@ user_input.py → Insert user input
 <br>
 
 ## How to Run<br>
-Install requirements:<br>
+### Install requirements:<br>
 pip install psycopg2<br>
 
-## Update PostgreSQL details in db_connect.py.<br>
+### Update PostgreSQL details in db_connect.py.<br>
 Run scripts in order:<br>
 python create_table.py<br>
 python insert_data.py<br>
