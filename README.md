@@ -67,4 +67,40 @@ A simple **GUI-based Calculator** built using Python's `tkinter` library. This p
 - Python 3.x installed on your system  
 - `tkinter` (comes pre-installed with Python)  
 
+## Assignment 7
+
+## PostgreSQL Assignment 7 <br>
+This assignment demonstrates how to use PostgreSQL with Python.<br>
+
+## Tasks Covered
+<br>
+Creating and deleting databases<br>
+Creating tables and inserting data<br>
+Retrieving and deleting records<br>
+Setting up Python virtual environment<br>
+
+## Installing psycopg2
+<br>
+Connecting Python with PostgreSQL<br>
+Creating tables and inserting data using Python<br>
+Fetching data and taking user input<br>
+
+## Files
+<br>
+db_connect.py → Connect to PostgreSQL<br>
+create_table.py → Create table<br>
+insert_data.py → Insert sample records<br>
+fetch_data.py → Fetch and display records<br>
+user_input.py → Insert user input
+<br>
+## How to Run<br>
+Install requirements:<br>
+pip install psycopg2<br>
+
+## Update PostgreSQL details in db_connect.py.<br>
+Run scripts in order:<br>
+python create_table.py<br>
+python insert_data.py<br>
+python fetch_data.py<br>
+python user_input.py
 
